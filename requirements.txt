@@ -1,5 +1,1 @@
 jupyter
-
-# Note that after installing RISE there are some extra commands needed to set
-# it up properly.
-RISE
