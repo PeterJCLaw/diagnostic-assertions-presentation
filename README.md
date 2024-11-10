@@ -8,5 +8,5 @@ The presentation takes the form of a [jupyter](https://jupyter.org/) notebook
 converted to slides via `jupyter nbconvert`:
 
 ``` console
-jupyter nbconvert diagnostic-assertions.ipynb --to slides --post serve
+jupyter nbconvert diagnostic-assertions.ipynb --to slides --SlidesExporter.reveal_scroll=true --post serve
 ```
