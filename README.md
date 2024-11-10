@@ -10,3 +10,5 @@ converted to slides via `jupyter nbconvert`:
 ``` console
 jupyter nbconvert diagnostic-assertions.ipynb --to slides --SlidesExporter.reveal_scroll=true --post serve
 ```
+
+Or just run `make`.
